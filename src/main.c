@@ -10,7 +10,7 @@
 #include <locale.h>
 
 #define MAXCHAR 1000
-#define MAXWORD_LENGTH 20 /*onerilen uzunluklar
+#define MAXWORD_LENGTH 48 /*onerilen uzunluklar
 						   * 20 - kisa kelimelerden olusan basit cumleler icin
 						   * 32 - turemis yapida kelimeler iceren basit cumleler icin
 						   * 48 - öntanımlı (default) değer
